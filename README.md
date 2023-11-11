@@ -1,6 +1,15 @@
 # animal_data_vet
 We are going to create a file owner.rb which defines the Owner class with attributes @name and @animals. That attribute @animals is what holds the relationship and to manage it we will also create a method add_animals to add animals to it. So this class ends up looking like this
 
+# Upcoming improvements:
+
+- Improve the app to include more feilds.
+- Buying of medicines
+- Permission of owners to keep pets
+- Create a Kenel
+- Preserve DATA
+- Unit tests
+
 require "./animal.rb"
 require "./dog.rb"
 require "./spider.rb"
