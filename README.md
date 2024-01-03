@@ -7,7 +7,7 @@ We are going to create a file owner.rb which defines the Owner class with attrib
 - `Buying of medicines`
 - `Permission of owners to keep pets`
 - `Create a Kanel`
-- Preserve DATA
+- `Preserve DATA`
 - Unit tests
 
 require "./animal.rb"
