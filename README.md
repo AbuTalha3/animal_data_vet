@@ -3,7 +3,7 @@ We are going to create a file owner.rb which defines the Owner class with attrib
 
 # Upcoming improvements:
 
-- Improve the app to include more fields.
+- `Improve the app to include more fields`.
 - Buying of medicines
 - Permission of owners to keep pets
 - Create a Kanel
