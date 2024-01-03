@@ -8,7 +8,7 @@ We are going to create a file owner.rb which defines the Owner class with attrib
 - `Permission of owners to keep pets`
 - `Create a Kanel`
 - `Preserve DATA`
-- Unit tests
+- `Unit tests`
 
 require "./animal.rb"
 require "./dog.rb"
